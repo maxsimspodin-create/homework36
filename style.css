@@ -77,3 +77,6 @@
 .product-price {
   font-weight: bold;
 }
+body {
+  max-width: 1340px;
+}
