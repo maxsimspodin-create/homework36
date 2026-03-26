@@ -16,6 +16,7 @@
   color: white;
   padding: 4px 8px;
   font-size: 12px;
+  z-index: 10;
 }
 .product-card {
   background: white;
@@ -79,4 +80,5 @@
 }
 body {
   max-width: 1340px;
+  margin: 0 auto;
 }
